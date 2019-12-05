@@ -1,0 +1,133 @@
+[
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\CameraEngineManager.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\CameraEngineManager.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\CameraEngineManager.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraCaptureRequest.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraCaptureRequest.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraCaptureRequest.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraCaptureSession.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraCaptureSession.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraCaptureSession.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraDevice.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraDevice.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraDevice.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraManager.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraManager.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraManager.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraOutputTarget.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraOutputTarget.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraOutputTarget.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraSessionOutput.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraSessionOutput.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraSessionOutput.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\camera\\CameraSessionOutputContainer.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraSessionOutputContainer.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraSessionOutputContainer.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\common\\Logger.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\common\\Logger.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\common\\Logger.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLManager.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLManager.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLManager.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLMesh.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLMesh.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLMesh.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLMeshRectangle.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLMeshRectangle.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLMeshRectangle.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLModel.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLModel.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLModel.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLModelCameraScreen.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLModelCameraScreen.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLModelCameraScreen.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLShader.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShader.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShader.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLShaderA.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderA.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderA.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLShaderB.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderB.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderB.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLShaderDefault.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderDefault.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderDefault.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLTexture.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTexture.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTexture.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLTextureExternalOES.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTextureExternalOES.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTextureExternalOES.cpp"
+},
+
+{
+  "directory": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\opengl\\OpenGLTextureImage.cpp.o -c E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTextureImage.cpp",
+  "file": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTextureImage.cpp"
+}
+]

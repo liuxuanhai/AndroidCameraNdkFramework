@@ -1,0 +1,147 @@
+{
+  "stringTable": {
+    "0": "E:/xenobox/Programs/AndroidCameraNdkFramework/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" native-lib",
+      "buildType": "debug",
+      "toolchain": "565182549",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\CameraEngineManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraCaptureRequest.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraCaptureSession.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraDevice.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraOutputTarget.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraSessionOutput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\camera\\CameraSessionOutputContainer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\common\\Logger.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLMesh.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLMeshRectangle.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLModel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLModelCameraScreen.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShader.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderA.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderB.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLShaderDefault.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTexture.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTextureExternalOES.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\opengl\\OpenGLTextureImage.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "565182549": {
+      "cppCompilerExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

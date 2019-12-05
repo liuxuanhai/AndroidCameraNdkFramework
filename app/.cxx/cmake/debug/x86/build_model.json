@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework",
+      "sdkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app",
+      "makeFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\.cxx",
+      "cxxFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 26,
+  "cxxBuildFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\xenobox\\Programs\\AndroidCameraNdkFramework\\app\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}
